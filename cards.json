@@ -1,0 +1,5 @@
+[
+  { "type": "text", "title": "Merhaba ❤️", "message": "Bugün seni çok özledim!" },
+  { "type": "song", "title": "Müzik Molası",
+    "songUrl": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3" }
+]
